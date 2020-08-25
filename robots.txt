@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://dainnc.github.io/mynote/sitemap.xml
